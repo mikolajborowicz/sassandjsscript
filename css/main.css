@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: gray;
+}
+
+body nav {
+  background-color: rgba(158, 37, 83, 0.856);
+}
+
+body nav ul {
+  list-style: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-right: 3rem;
+  display: block;
+  width: 12rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body nav ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  display: block;
+  margin-right: 2rem;
+  padding: 1rem;
+}
+
+body nav ul li:hover {
+  background-color: darkcyan;
+}
+
+body nav ul a {
+  text-decoration: none;
+  font-size: 2rem;
+  caret-color: aliceblue;
+}
+/*# sourceMappingURL=main.css.map */
