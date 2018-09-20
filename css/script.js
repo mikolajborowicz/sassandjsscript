@@ -1,6 +1,4 @@
-document.getElementById(lapse).innerHTML("Boro enterprises")
-var myVar = 23;
-if(
-    myVar > mycode
-)
-""
+var age = 23;
+if (age == 23){
+    console.log("wiek jest taki sam")
+} 

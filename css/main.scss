@@ -12,6 +12,7 @@
 body {
     background-color: gray;
 
+
     nav {
         background-color: rgba(158, 37, 83, 0.856);
 
@@ -38,7 +39,14 @@ body {
             a {
                 text-decoration: none;
                 font-size: 2rem;
-                caret-color: aliceblue;
+                
             }
         }
-    }}
+    }
+
+    header{
+        background-color: deepskyblue;
+        position: relative;
+        height: 100rem;
+    }
+}

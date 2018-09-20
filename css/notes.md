@@ -1,4 +1,14 @@
-Writing into an HTML element,        using innerHTML.
-Writing into the HTML output using     document.write().
-Writing into an alert box, using        window.alert().
-Writing into the browser console, using         console.log().
+#JAVA SCRIPT
+
+#Wprowadzanie tekstu na stronę za pomocą JS
+
+1. Writing into an HTML element,        using innerHTML.
+2. Writing into the HTML output using     document.write().
+3. Writing into an alert box, using    window.alert().
+4. Writing into the browser console, using         console.log().
+
+#Varibles
+
+document.getElementbyId().innerHTML
+
+

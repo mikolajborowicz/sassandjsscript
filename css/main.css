@@ -47,6 +47,11 @@ body nav ul li:hover {
 body nav ul a {
   text-decoration: none;
   font-size: 2rem;
-  caret-color: aliceblue;
+}
+
+body header {
+  background-color: deepskyblue;
+  position: relative;
+  height: 100rem;
 }
 /*# sourceMappingURL=main.css.map */
