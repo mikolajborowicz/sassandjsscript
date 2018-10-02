@@ -52,6 +52,15 @@ body nav ul a {
 body header {
   background-color: deepskyblue;
   position: relative;
-  height: 100rem;
+  height: 10rem;
+}
+
+body header div {
+  position: absolute;
+  position: relative;
+}
+
+body header div a {
+  position: absolute;
 }
 /*# sourceMappingURL=main.css.map */
